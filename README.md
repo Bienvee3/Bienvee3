@@ -2,7 +2,7 @@
 ¡Hola! Soy Bienvenido Doalto, un estudiante de primer año de Ingeniería Informática en la Universidad del Atlántico, Cantabria, España. Con 18 años, estoy empezando mi camino en el fascinante mundo de la tecnología y el desarrollo de software.<br><br>Me apasiona el aprendizaje constante y estoy siempre buscando nuevas maneras de ampliar mis habilidades en programación, algoritmos y desarrollo web. Mi formación académica, combinada con mi curiosidad por la innovación tecnológica, me ha llevado a profundizar en lenguajes como HTML, CSS , Python y Java. Aunque estoy dando mis primeros pasos, me encanta asumir retos y seguir mejorando cada día.<br><br>Busco oportunidades para poner en práctica mis conocimientos y colaborar en proyectos reales que me permitan crecer como desarrollador. Estoy abierto a colaborar en proyectos de código abierto, prácticas profesionales y cualquier iniciativa que me ayude a ganar experiencia en este campo.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bienvedc.3) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bienvee3) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Bienvee3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bienvee3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bienvee394) 
 
 # 💻 Tech Stack:
