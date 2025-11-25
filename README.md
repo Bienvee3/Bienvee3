@@ -37,6 +37,7 @@
 # 📊 Mis Estadísticas en GitHub
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bienvee3&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub de Bienvee" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvee3&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por Bienvee" />
 </p>
 
