@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrum"/>
 </div>
 
----
 
 # 📊 Mis Estadísticas en GitHub
 
